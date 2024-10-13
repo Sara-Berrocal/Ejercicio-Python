@@ -1,4 +1,6 @@
-#Ejercicio 16
+import os 
+os.system("cls")
+
 tarifhorar = float(input("Ingrese la tarifa horaria en dólares: "))
 horatrabaj = float(input("Ingrese el número total de horas trabajadas: "))
 

@@ -1,3 +1,6 @@
+import os 
+os.system("cls")
+
 Juandolar = float(input("Ingrese la cantidad aportada de Juan en dólares: "))
 Rosadolar = float(input("Ingrese la cantidad aportada de Rosa en dólares: "))
 
