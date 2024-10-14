@@ -27,3 +27,15 @@ else:
     grado = 5
     
 print("El grado de eficiencia del operario es:", grado)
+
+# import os
+# os.system("cls")
+
+# hAusencia = float(input("Hora Ausencia: ")) < 1.5
+# tmalos = int(input("Tornillos malos: ")) < 300
+# tbuenos = int(input("Tornillos buenos: ")) > 10000
+
+# if not hAusencia and not tmalos and not tbuenos: print("Grado 5")
+# if  hAusencia and not tmalos and not tbuenos: print("Grado 7")
+# if not hAusencia and tmalos and not tbuenos: print("Grado 8")
+# if not hAusencia and not tmalos and  tbuenos: print("Grado 9")
